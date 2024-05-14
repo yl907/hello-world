@@ -6,7 +6,7 @@ this is my hello-world repository
 ### anybody?
 
 my name is **Yanle Wu**, one paragraph of Tao Te Ching I like is, 
-> *"A way can go through, is not a permanent way. A name can be used as a name, is not a permanent name."*
+> *"Things tends to go to opposite state."*
 
 new things here,
 this branch is updated!!! 
